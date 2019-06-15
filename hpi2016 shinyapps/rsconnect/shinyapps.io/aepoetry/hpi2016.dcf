@@ -1,0 +1,12 @@
+name: hpi2016
+title: hpi2016
+username:
+account: aepoetry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 637362
+bundleId: 1811338
+url: https://aepoetry.shinyapps.io/hpi2016/
+when: 1547359405.42052
+asMultiple: FALSE
+asStatic: FALSE

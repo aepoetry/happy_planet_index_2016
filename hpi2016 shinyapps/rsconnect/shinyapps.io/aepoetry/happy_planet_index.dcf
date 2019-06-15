@@ -1,0 +1,13 @@
+name: happy_planet_index
+title: happy_planet_index
+username:
+account: aepoetry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 639253
+bundleId: 1813160
+url: https://aepoetry.shinyapps.io/happy_planet_index/
+when: 1547470286.84628
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
